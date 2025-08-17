@@ -1,0 +1,4 @@
+Model,BestParams,Accuracy,Precision,Recall,F1,ROC_AUC
+RandomForest (Tuned),"{'clf__n_estimators': 600, 'clf__min_samples_split': 10, 'clf__min_samples_leaf': 2, 'clf__max_features': 'log2', 'clf__max_depth': 4}",0.9016393442622951,0.84375,0.9642857142857143,0.9,0.9556277056277056
+SVM (Tuned),"{'clf__C': 3, 'clf__gamma': 0.001, 'clf__kernel': 'rbf'}",0.8852459016393442,0.8387096774193549,0.9285714285714286,0.8813559322033898,0.9404761904761905
+LogisticRegression (Tuned),"{'clf__C': 0.5, 'clf__penalty': 'l2'}",0.8524590163934426,0.7878787878787878,0.9285714285714286,0.8524590163934426,0.9588744588744589

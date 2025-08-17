@@ -1,0 +1,2 @@
+Adjusted Rand Index (KMeans, k=2): 0.3626
+Adjusted Rand Index (Agglomerative, k=2): 0.2942
